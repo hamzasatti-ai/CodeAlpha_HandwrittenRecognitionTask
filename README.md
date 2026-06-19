@@ -1,0 +1,2 @@
+# CodeAlpha_HandwrittenRecognitionTask
+Handwriting recognition model
